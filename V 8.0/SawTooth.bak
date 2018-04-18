@@ -1,0 +1,10 @@
+program SawTooth;
+
+uses MMSystem,sysutils;
+
+begin
+Writeln ('Current Directory is : ',GetCurrentDir);
+sndPlaySound(PChar(GetCurrentDir+'\test.wav'), SND_ASYNC);
+sndPlaySound(PChar(GetCurrentDir+'\BlockBreak1.wav'), SND_ASYNC);
+readln;
+end.
