@@ -1,0 +1,17 @@
+{MEDRIROS ENGINE BETA TEST}
+{Version 2.1}
+
+aplication file included aswell for easy access.
+save the aplication to a file on your home drive so save files will work.
+This version is stable but allot less buggy than 2.0 if you find a bug please report it in the bug file.
+
+B = pickup
+V = Place
+c = Craft
+Esc = menu
+arrow keys to move
+
+
+
+
+{code by Thomas.B}

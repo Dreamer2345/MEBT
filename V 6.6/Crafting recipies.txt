@@ -1,0 +1,9 @@
+Basic Crafting recipies
+Vol1;
+
+-Mythril+Grimite=Trap
+-Stone+Stone=Door
+-Stone+Mythril=Health_pack
+-Stone+Grimite=Chest
+-Door+Chest=Bed
+-Door+Stone=Stairs

@@ -1,0 +1,17 @@
+Basic Crafting recipies
+Vol1;
+
+-Mythril+Grimite=Trap
+-Plank+Hinge=Door
+-Stone+Mythril=Health_pack
+-Plank+Cog=Chest
+-Plank+Log=Bed
+-Door+Stone=Stairs
+-stone+log=axe
+-axe+log=plank
+-Plank+Plank=Wood_Wall
+-stone+stone=Stone_Brick
+-Stone_Brick+Stone_Brick=Stone_wall
+-Stone_Brick+plank=Cog
+-Cog+Stone=Hinge
+
