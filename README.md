@@ -1,2 +1,2 @@
 # MEBT
-A Ascii Game
+An Ascii Game
